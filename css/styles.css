@@ -129,6 +129,7 @@ body {
   letter-spacing: 0.2em;
   color: var(--foreground);
   text-decoration: none;
+  height: 50px;
 }
 
 .logo img{
